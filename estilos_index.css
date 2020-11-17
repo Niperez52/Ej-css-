@@ -1,0 +1,63 @@
+body{
+    background-color: #2f2f2f;
+}
+
+h1{
+    color: #00FFFF;
+}
+
+p{
+    color: #ffffff
+}
+
+h2 {
+    color: #00A0E3;
+}
+
+a{
+    text-decoration: none;
+    color: #96989A;
+}
+
+tr{
+    background-color:#46464662;
+}
+
+th{
+    color: #00FFFF;
+}
+
+td{
+    color: #00FFFF;
+}
+
+.oro{
+color:  #D4AF37;
+}
+
+.plata {
+    color: #BEBEBE;
+}
+
+.bronce {
+ color: #C97E28
+ 
+}
+
+.gris{
+    color: #96989A
+
+}
+
+.div2{
+text-align: center;
+
+}
+
+img{
+    border:1px solid #0072BA;
+}
+
+.img2{
+    border:1px solid #2f2f2f;
+}
